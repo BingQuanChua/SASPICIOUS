@@ -1,0 +1,201 @@
+Country Name,CO2 emissions (metric tons per capita),CO2 emissions (kt),Urban population (% of total population)
+Afghanistan,0,0,1
+Angola,0,0,1
+Albania,0,0,1
+Andorra,0,0,1
+United Arab Emirates,1,0,1
+Argentina,0,0,1
+Armenia,0,0,1
+American Samoa,0,0,1
+Antigua and Barbuda,0,0,1
+Australia,1,1,0
+Austria,1,0,1
+Azerbaijan,0,0,1
+Burundi,0,0,1
+Belgium,1,0,1
+Benin,0,0,1
+Burkina Faso,0,0,1
+Bangladesh,0,0,1
+Bulgaria,1,0,1
+Bahrain,1,0,1
+"Bahamas, The",1,0,1
+Bosnia and Herzegovina,0,0,1
+Belarus,0,0,1
+Belize,0,0,1
+Bermuda,1,0,1
+Bolivia,0,0,1
+Brazil,0,1,0
+Barbados,0,0,1
+Brunei Darussalam,1,0,1
+Bhutan,0,0,1
+Botswana,0,0,1
+Canada,1,1,0
+Switzerland,0,0,1
+Chile,0,0,1
+Cote d'Ivoire,0,0,1
+Cameroon,0,0,1
+"Congo, Dem. Rep.",0,0,0
+"Congo, Rep.",0,0,1
+Colombia,0,0,1
+Comoros,0,0,1
+Cabo Verde,0,0,1
+Costa Rica,0,0,1
+Caribbean small states,0,0,1
+Cuba,0,0,1
+Cayman Islands,1,0,1
+Cyprus,0,0,1
+Czech Republic,1,0,1
+Germany,1,1,0
+Djibouti,0,0,1
+Dominica,0,0,1
+Denmark,1,0,1
+Dominican Republic,0,0,1
+Algeria,0,0,1
+Ecuador,0,0,1
+"Egypt, Arab Rep.",0,0,1
+Eritrea,0,0,1
+Spain,0,1,1
+Estonia,1,0,1
+Ethiopia,0,0,1
+Finland,1,0,1
+Fiji,0,0,1
+France,0,1,0
+Faroe Islands,0,0,1
+"Micronesia, Fed. Sts.",0,0,1
+Gabon,0,0,1
+United Kingdom,1,1,0
+Georgia,0,0,1
+Ghana,0,0,1
+Gibraltar,0,0,1
+Guinea,0,0,1
+"Gambia, The",0,0,1
+Guinea-Bissau,0,0,1
+Equatorial Guinea,0,0,1
+Greece,0,0,1
+Grenada,0,0,1
+Greenland,0,0,1
+Guatemala,0,0,1
+Guam,0,0,1
+Guyana,0,0,1
+"Hong Kong SAR, China",0,0,1
+Honduras,0,0,1
+Croatia,0,0,1
+Haiti,0,0,1
+Hungary,0,0,1
+Indonesia,0,1,0
+Ireland,1,0,1
+"Iran, Islamic Rep.",0,1,0
+Iraq,0,0,1
+Iceland,0,0,1
+Israel,0,0,1
+Italy,0,1,0
+Jamaica,0,0,1
+Jordan,0,0,1
+Japan,1,1,0
+Kazakhstan,1,0,1
+Kenya,0,0,1
+Kyrgyz Republic,0,0,1
+Cambodia,0,0,1
+Kiribati,0,0,1
+St. Kitts and Nevis,0,0,1
+"Korea, Rep.",1,1,0
+Kuwait,1,0,1
+Lao PDR,0,0,1
+Lebanon,0,0,1
+Liberia,0,0,1
+Libya,1,0,1
+St. Lucia,0,0,1
+Liechtenstein,0,0,1
+Sri Lanka,0,0,1
+Lesotho,0,0,1
+Lithuania,0,0,1
+Luxembourg,1,0,1
+Latvia,0,0,1
+"Macao SAR, China",0,0,1
+Morocco,0,0,1
+Moldova,0,0,1
+Madagascar,0,0,1
+Maldives,0,0,1
+Mexico,0,1,0
+Marshall Islands,0,0,1
+North Macedonia,0,0,1
+Mali,0,0,1
+Malta,0,0,1
+Myanmar,0,0,0
+Montenegro,0,0,1
+Mongolia,0,0,1
+Mozambique,0,0,1
+Mauritania,0,0,1
+Mauritius,0,0,1
+Malawi,0,0,1
+Malaysia,0,0,1
+Namibia,0,0,1
+New Caledonia,0,0,1
+Niger,0,0,1
+Nigeria,0,0,1
+Nicaragua,0,0,1
+Netherlands,1,0,1
+Norway,1,0,1
+Nepal,0,0,1
+Nauru,1,0,1
+New Zealand,0,0,1
+Oman,1,0,1
+Pakistan,0,0,1
+Panama,0,0,1
+Peru,0,0,1
+Philippines,0,0,1
+Palau,1,0,1
+Papua New Guinea,0,0,1
+Poland,1,1,0
+Puerto Rico,0,0,1
+"Korea, Dem. People's Rep.",0,0,1
+Portugal,0,0,1
+Paraguay,0,0,1
+West Bank and Gaza,0,0,1
+French Polynesia,0,0,1
+Romania,0,0,1
+Rwanda,0,0,1
+Saudi Arabia,1,1,0
+Sudan,0,0,1
+Senegal,0,0,1
+Singapore,1,0,1
+Solomon Islands,0,0,1
+Sierra Leone,0,0,1
+El Salvador,0,0,1
+Somalia,0,0,1
+Serbia,0,0,1
+Sao Tome and Principe,0,0,1
+Suriname,0,0,1
+Slovak Republic,1,0,1
+Slovenia,0,0,1
+Sweden,0,0,1
+Eswatini,0,0,1
+Seychelles,0,0,1
+Syrian Arab Republic,0,0,1
+Turks and Caicos Islands,0,0,1
+Chad,0,0,1
+Togo,0,0,1
+Thailand,0,0,1
+Tajikistan,0,0,1
+Turkmenistan,1,0,1
+Timor-Leste,0,0,1
+Tonga,0,0,1
+Trinidad and Tobago,1,0,1
+Tunisia,0,0,1
+Turkey,0,0,1
+Tuvalu,0,0,1
+Tanzania,0,0,1
+Uganda,0,0,1
+Ukraine,0,1,0
+Uruguay,0,0,1
+Uzbekistan,0,0,1
+St. Vincent and the Grenadines,0,0,1
+"Venezuela, RB",0,0,1
+British Virgin Islands,0,0,1
+Virgin Islands (U.S.),0,0,1
+Vietnam,0,0,1
+Vanuatu,0,0,1
+Samoa,0,0,1
+"Yemen, Rep.",0,0,1
+Zambia,0,0,1
+Zimbabwe,0,0,1
