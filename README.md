@@ -1,6 +1,8 @@
 # SAS Curiosity Cup
 SAS Competition
 
+
+
 ## 🧮Dataset
 
 🏭[Air Pollution Datasets](https://linktr.ee/bingquan)
@@ -23,3 +25,18 @@ SAS Competition
 4. How China Plans to Achieve Carbon Peak and Carbon Neutrality [[Article]](https://earth.org/china-carbon-peak-carbon-neutrality/)
 4. China Sets Goal For Climate Neutrality By 2060 [[Article]](https://earth.org/china-climate-neutrality-by-2060/)
 
+
+
+## 🚀SASpicious Group Members
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/LiewKuanYung"><img src="https://avatars.githubusercontent.com/u/54584287?v=4" width="100px;" alt=""/><br /><sub><b>LiewKuanYung</b></sub>
+    </td>
+    <td align="center"><a href="https://github.com/BingQuanChua"><img src="https://avatars.githubusercontent.com/u/58171848?v=4" width="100x;" alt=""/><br /><sub><b>BingQuanChua</b></sub>
+    </td>
+    <td align="center"><a href="https://github.com/hanyikoh"><img src="https://avatars.githubusercontent.com/u/53308785?v=4" width="100px;" alt=""/><br /><sub><b>hanyikoh</b></sub>
+    </td>
+    <td align="center"><a href="https://github.com/GuanSoh"><img src="https://avatars.githubusercontent.com/u/46703869?v=4" width="100px;" alt=""/><br /><sub><b>GuanSoh</b></sub>
+    </td>
+  </tr>
+<table>
